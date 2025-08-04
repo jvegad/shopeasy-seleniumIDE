@@ -25,7 +25,6 @@ Clonar el repositorio:
 
 git clone https://github.com/jvegad/shopeasy-seleniumIDE
 cd shopeasy-seleniumIDE
-Compilar y ejecutar las pruebas: El siguiente comando limpiará compilaciones anteriores, compilará el código y ejecutará la suite de pruebas definida en testing.xml.
 
 mvn clean test
 Al finalizar, deberías ver un BUILD SUCCESS en la consola.
