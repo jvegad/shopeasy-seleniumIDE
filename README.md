@@ -153,7 +153,7 @@ public class LoginRegistroTest {
         }
     }
 }
-```
+````
 ## 4. Reflexión Final sobre la Experiencia
 
 Utilizar **Selenium IDE** como punto de partida para la automatización de pruebas es una estrategia muy efectiva. La capacidad de grabar un flujo de usuario en minutos proporciona una base de código funcional que, de otro modo, llevaría mucho más tiempo escribir desde cero. Esta fase inicial de "prototipado rápido" es, sin duda, la mayor fortaleza de la herramienta.
